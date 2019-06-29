@@ -1,0 +1,32 @@
+body {
+
+    background-color:black;
+}
+
+h1{
+	left:46%;
+	top:35%;
+	
+}
+a {
+font-size:30px;
+}
+
+#yes{
+	top:50%;
+	left:37%;
+}
+
+#no{
+	top:50%;
+	left:56%;
+}
+.text {
+	font-family:Georgia;
+	color:white;
+	position:absolute;
+}
+#no:hover{
+    transform: translate(-500px,0);
+   
+}
